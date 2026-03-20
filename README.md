@@ -29,7 +29,7 @@ This project demonstrates:
 - governance-minded IT support practices
 
 ## Future Enhancements
-- Convert markdown pages into a static documentation site with MkDocs or Docusaurus
+- Convert markdown pages into a static documentation site if applicable
 - Add Mermaid flowcharts for visual troubleshooting paths
 - Add sample Jira or ServiceNow ticket mappings
 - Add role-based access request examples
